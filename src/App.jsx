@@ -14,9 +14,9 @@ export default function App() {
     <div className="flex items-center justify-center h-screen bg-gray-100">
       <form
         onSubmit={handleSubmit}
-        className="bg-white p-8 rounded-lg shadow-md w-full max-w-md"
+        className="bg-white p-8 rounded-lg shadow-xl w-full max-w-md"
       >
-        <h1 className="text-2xl font-semibold mb-6">Contact Us</h1>
+        <h1 className="text-2xl font-semibold mb-6 ">Contact Us</h1>
 
         <label className="block mb-4">
           <span className="text-gray-700">Name</span>
