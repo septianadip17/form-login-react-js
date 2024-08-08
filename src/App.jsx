@@ -59,7 +59,7 @@ export default function App() {
           type="submit"
           className="w-full px-4 py-2 bg-indigo-600 text-white font-semibold rounded-md shadow-sm hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500"
         >
-          Submit
+          Submit Dong
         </button>
       </form>
     </div>
